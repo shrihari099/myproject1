@@ -18,7 +18,7 @@ public static void main(String[] args) throws InterruptedException {
 	StockScreenerView obj3=new StockScreenerView();
 	obj3.Verify();
 	
-	//abhi gandu
+	
 	
 }
 }
