@@ -9,6 +9,7 @@ public class HomepageView {
 	obj.StockScreener();
 	Thread.sleep(5000);
 	obj.Blocker();
+	//change
 
 }
 }
