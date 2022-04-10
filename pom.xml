@@ -11,11 +11,13 @@
 			<version>4.1.2</version>
 		</dependency>
 		
-		<dependency>
-    <groupId>io.github.bonigarcia</groupId>
-    <artifactId>webdrivermanager</artifactId>
-    <version>5.1.0</version>
-    <scope>test</scope>
+	<!-- https://mvnrepository.com/artifact/io.github.bonigarcia/webdrivermanager -->
+<dependency>
+<groupId>io.github.bonigarcia</groupId>
+<artifactId>webdrivermanager</artifactId>
+<version>5.1.0</version>
 </dependency>
+
+
 	</dependencies>
 </project>

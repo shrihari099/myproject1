@@ -1,11 +1,11 @@
-package com.ticker.D.test;
-import com.ticker.A.common.BaseClass;
-import com.ticker.C.views.HomepageView;
-import com.ticker.C.views.StockScreenerView;
+package com.ticker.test;
+import com.ticker.common.BaseClass;
+import com.ticker.views.HomepageView;
+import com.ticker.views.StockScreenerView;
 
 public class Test {
 	
-public static void main(String[] args) throws InterruptedException {
+public static void main(String[] args)  {
 	
 	
 	BaseClass obj=new BaseClass();
@@ -17,6 +17,8 @@ public static void main(String[] args) throws InterruptedException {
 	
 	StockScreenerView obj3=new StockScreenerView();
 	obj3.Verify();
+	
+	
 	
 	
 	
